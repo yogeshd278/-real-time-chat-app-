@@ -1,4 +1,4 @@
-# ⚡🔥🔥real-time-chat-app(Scoket.io)
+# ⚡🔥🔥real-time-chat-app(socket.io)
 Create real time chat app using socket.io and express.js in node.js.
 
 To run the project, Install some dependency and follow this command : 
